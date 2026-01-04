@@ -10,3 +10,4 @@ gradio
 huggingface-hub
 python-dotenv
 dask
+langchain-text-splitters
