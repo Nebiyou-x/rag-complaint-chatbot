@@ -1,8 +1,3 @@
-Below is a **comprehensive, submission-ready `README.md`** tailored specifically for the **10 Academy – AI Mastery Week 7 RAG Challenge**.
-You can copy-paste this directly into your repo and adjust names if needed.
-
----
-
 # 📊 Intelligent Complaint Analysis for Financial Services
 
 ### RAG-Powered Chatbot for Actionable Customer Insights
