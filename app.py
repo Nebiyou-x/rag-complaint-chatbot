@@ -1,5 +1,5 @@
 import streamlit as st
-from src.rag_pipeline import rag_pipeline
+from src.Rag_pipeline import rag_pipeline
 
 
 st.set_page_config(page_title="CrediTrust Complaint Analyzer", layout="wide")
